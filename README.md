@@ -25,45 +25,22 @@ and created hover.table for visualization
 
 ## C. Results
 
-![images](images/crypto_elbow_plot.png)
+![](images/crypto_elbow_plot.png)
 
 
+![](images/hvplottable.PNG)
 
 
+![](images/Crypto_pca.PNG)
 
 
-
-![images](images/Crypto_pca.PNG)
-
+![](images/k_5_cluster.PNG)
 
 
+![](images/plotlyforcrypto.png)
 
 
-
-
-
-![images](images/k_5_cluster.PNG)
-
-
-
-
-
-
-
-![images](images/plotlyforcrypto.png)
-
-
-
-
-
-
-![images](images/hvplottable.PNG)
-
-
-
-
-
-![images](images/hvplot.png)
+![](images/hvplot.png)
 
 
 
